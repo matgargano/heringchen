@@ -1,0 +1,26 @@
+.jumbotron {
+    height: 100vh;
+}
+
+.arch-daughter-font {
+    font-family: 'Architects Daughter', cursive;    
+}
+
+
+#amatriciana {
+    background-image: url("https://www.placebear.com/300/300");
+    background-size: cover;
+    height: 50vh;
+}
+
+#taiwanese-fried-chicken {
+    background-image: url("https://www.placebear.com/300/300");
+    background-size: cover;
+    height: 50vh;
+}
+
+.remove-bullets {
+    list-style-type: none;
+    padding:0;
+    margin:0;
+  }
