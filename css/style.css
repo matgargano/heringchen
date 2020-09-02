@@ -7,10 +7,9 @@
 }
 
 
-#amatriciana {
-    background-image: url("https://www.placebear.com/300/300");
-    background-size: cover;
-    height: 50vh;
+.carousel-vh {
+    height: auto;
+    width: auto;
 }
 
 #taiwanese-fried-chicken {
