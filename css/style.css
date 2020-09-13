@@ -20,7 +20,6 @@ body, html {
     color: #fff;
 }
 
-
 /* Change navbar styling on scroll */
 .navbar.active {
     background: #fff;
@@ -53,10 +52,6 @@ body, html {
     }
 }
 
-.jumbotron {
-    height: 100vh;
-}
-
 .arch-daughter-font {
     font-family: 'Architects Daughter', cursive;    
 }
@@ -73,20 +68,15 @@ body, html {
     margin:0;
   }
 
-  .w-100 {
-    width: 100%;
-    height: 75vh;
-  }
-  
-  .index-body {
-    /* The image used */
-    background-image: url("/images/benjamin-voros-phIFdC6lA4E-unsplash.jpg");
-  
-    /* Full height */
-    height: 100%;
-  
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
+.index-body {
+/* The image used */
+background-image: url("/images/benjamin-voros-phIFdC6lA4E-unsplash.jpg");
+
+/* Full height */
+height: 100%;
+
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
